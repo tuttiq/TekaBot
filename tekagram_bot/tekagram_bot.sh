@@ -11,7 +11,7 @@
 ### END INIT INFO
 
 # Change the next 3 lines to suit where you install your script and what you want to call it
-DIR=~/Scripts
+DIR=/home/pi/Scripts
 DAEMON=$DIR/tekagram_bot.py
 DAEMON_NAME=tekagram_bot
 
